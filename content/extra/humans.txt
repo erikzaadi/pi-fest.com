@@ -1,0 +1,8 @@
+Team:
+    Pablo Klijnjan
+    Roy Rothenberg
+    Erik Zaadi
+
+/* THANKS */
+Raspberry Pi Team
+Pelican

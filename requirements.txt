@@ -1,0 +1,6 @@
+pelican
+Markdown
+typogrify
+pelican-gist
+pelican-microdata
+webassets
