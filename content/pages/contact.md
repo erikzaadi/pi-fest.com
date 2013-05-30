@@ -1,6 +1,5 @@
 Title: Contact
 Heading: Contact us..
-Template: contact
 Save_as: contact.html
 Date: 2010-12-03 10:20
 

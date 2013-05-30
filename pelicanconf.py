@@ -23,9 +23,10 @@ THEME = 'deps/pelican-cait'
 
 USE_CUSTOM_MENU = True
 CUSTOM_MENUITEMS = (
-    ('Contact', 'contact.html'),
+    ('Blog', 'category/blog.html'),
     ('Events', 'category/events.html'),
-    ('Blog', 'category/blog.html'))
+    ('Contact', 'contact.html'),
+)
 
 DEFAULT_PAGINATION = 10
 

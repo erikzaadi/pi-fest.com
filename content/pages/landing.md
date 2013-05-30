@@ -1,9 +1,8 @@
-Title: Landing
-Heading: Pi-Fest
-Subheading: We all love the Raspberry Pi, We all want time to hack on it..
-Template: landing
+Title: Pi-Fest
 Date: 2013-05-28 10:20
 Save_as: index.html
+
+### We all love the Raspberry Pi, We all want time to hack on it..
 
 This is your chance to join a Raspberry Pi Hackathon..
 
@@ -43,3 +42,5 @@ Printed Wife excuse passes included!
 
 Lovely ascii by https://gist.github.com/onehouse/2980361
 -->
+
+![Raspberry Pi](/static/images/Raspi-PGB001.png)
