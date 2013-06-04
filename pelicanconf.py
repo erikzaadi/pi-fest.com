@@ -32,7 +32,7 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-GITHUB_URL = "http://github.com/erikzaadi/pi-fest.com"
+#GITHUB_URL = "http://github.com/erikzaadi/pi-fest.com"
 
 PLUGIN_PATH = 'deps/pelican-plugins'
 PLUGINS = ['assets', 'sitemap']
