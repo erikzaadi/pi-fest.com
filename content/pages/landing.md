@@ -43,7 +43,7 @@ Printed Wife excuse passes included!
 Lovely ascii by https://gist.github.com/onehouse/2980361
 -->
 
-![Raspberry Pi](/static/images/Raspi-PGB001.png)
+[![Raspberry Pi](/static/images/Raspi-PGB001.png)](http://raspberry.org)
 
 
 <small>A small disclaimer, this site is not affiliated with, neither does it represent the views, position or attitudes of our employer(s) their clients, or any of their affiliated companies.</small>
