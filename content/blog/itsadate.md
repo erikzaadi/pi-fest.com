@@ -1,7 +1,6 @@
 Title: It's a date!
 Date: 2013-06-04 10:20
 Author: Erik Zaadi
-Summary: We finally have a date for the first Alpha Pi-Fest!
 
 It's on!
 

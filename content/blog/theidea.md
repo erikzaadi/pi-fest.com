@@ -1,7 +1,6 @@
 Title: And so it began..
 Date: 2013-05-28 10:20
 Author: Erik Zaadi
-Summary: The idea of Pi-Fest started...
 
 After having a cake baking contest at our work (IBM XIV), A couple of Raspberry Pi tinkerers had this idea of doing the same meeting, just with the Raspberry Pi instead of, well, real pies.
 
