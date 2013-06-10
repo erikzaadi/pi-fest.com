@@ -41,6 +41,6 @@ Here's some of the thinks we thought of:
 
     We scheduled the Pi-Fest between 18:00 and 23:00
 
-    We only lasted until 22:30 because people were to tired
+    We only lasted until 22:30 because people were too tired
 
 1.  Do not use hyphens in Twitter hash tags, it sucks

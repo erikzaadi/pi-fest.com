@@ -8,6 +8,10 @@ This is your chance to join a Raspberry Pi Hackathon..
 
 Printed Wife excuse passes included!
 
+Have a look [at the events](/category/events.html) or at [the blog](/category/blog.html).
+
+We also have a [LinkedIn group](http://www.linkedin.com/groups/PiFest-5058942).
+
 <!--  Hey! Y readz source!
      :||220$00$$211'        '112$$00$0221|:           
   '00802$22112122$$802'   1080$22211122$2$800:        
