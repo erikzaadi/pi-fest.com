@@ -37,7 +37,7 @@ Here's some of the thinks we thought of:
     * Have at least one big food break
     * Have booze
 
-1.  Don't set the meeting to late
+1.  Don't set the meeting too late
 
     We scheduled the Pi-Fest between 18:00 and 23:00
 
